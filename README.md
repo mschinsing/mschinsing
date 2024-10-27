@@ -7,11 +7,9 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **OS design & ML**
+  🌱 I’m currently learning **OS design & ML**
 
-- 📫 How to reach me **mschinsing14@g.ucla.edu**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1rDYozXjQQV88SXfs4legARM7lBkrM8sEhpgKii--txc/edit?tab=t.0)
+  📫 How to reach me **mschinsing14@g.ucla.edu**
 
 </div>
 
