@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Matthew Schinsing</h1>
+s<h1 align="center">Hi 👋, I'm Matthew Schinsing</h1>
 <h3 align="center">Math + CS @ UCLA</h3>
 
 - 🌱 I’m currently learning **OS design & ML**
 
 - 📫 How to reach me **mschinsing14@g.ucla.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rDYozXjQQV88SXfs4legARM7lBkrM8sEhpgKii--txc/edit?tab=t.0](https://docs.google.com/document/d/1rDYozXjQQV88SXfs4legARM7lBkrM8sEhpgKii--txc/edit?tab=t.0)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1rDYozXjQQV88SXfs4legARM7lBkrM8sEhpgKii--txc/edit?tab=t.0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
