@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  🌱 I’m currently learning **OS design & ML**
+  🌱 I’m currently learning **Algorithm Analysis & ML**
 
   📫 How to reach me **mschinsing14@g.ucla.edu**
 
